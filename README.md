@@ -17,7 +17,7 @@ Time permitting a third notebook will provide a more advanced analysis with PCA 
 The repository also contains the input data used in CSV format.
 To reporoduce these notebook it should be enough to clone the repo, ensure the libraries are installed and execute the notebooks.
 
-The classification results while similiar to others I have seen that provide reproducible code are not that accurate.
+The classification results, while similiar to others I have seen that provide reproducible code are not that accurate.
 Time permitting, the next approach will be to evaluate multicollinearity among input feature sets and use sampling methds more robust to imbalanced datasets such as SMOTE  - https://jair.org/index.php/jair/article/view/10302
 
 
